@@ -7,7 +7,7 @@ coverY: -20
 
 # 😆 Commit Other
 
-I'm dude **QUICK OVER THE LAZY DOG**&#x20;
+I'm **QUICK OVER THE LAZY DOG**&#x20;
 
-* four five
+* four five six seven
 * how are you?
