@@ -7,7 +7,7 @@ coverY: -20
 
 # 😆 Commit Other
 
-I'm also editing this line in change request [page-2.md](page-2.md "mention")
+I'm **QUICK BROWN FOX JUMPS OVER THE LAZY DOG** request [page-2.md](page-2.md "mention")
 
 * four five
 * how are you?
