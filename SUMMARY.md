@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Commit 1](README.md)
+* [😆 Commit Other](README.md)
 * [Page #2](page-2.md)
