@@ -7,7 +7,7 @@ coverY: -20
 
 # 😆 Commit Other
 
-I'm dude **QUICK OVER THE LAZY DOG** request [page-2.md](page-2.md "mention")
+I'm dude **QUICK OVER THE LAZY DOG**&#x20;
 
 * four five
 * how are you?
