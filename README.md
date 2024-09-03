@@ -10,7 +10,7 @@ coverY: -20
 I'm **QUICK OVER THE LAZY DOG**&#x20;
 
 * four five six seven
-* how are you?
+* how are you?a
 
 | HEY |   |   |
 | --- | - | - |
@@ -24,5 +24,5 @@ I'm **QUICK OVER THE LAZY DOG**&#x20;
 | ---- | --- | ---------- |
 | asd  |     |            |
 | asda |     |            |
-|      |     |            |
+|      |     | a          |
 
