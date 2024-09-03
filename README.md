@@ -5,7 +5,7 @@ cover: >-
 coverY: -20
 ---
 
-# 😆 Commit Other
+# 😍 Commit Other
 
 I'm **QUICK OVER THE LAZY DOG**&#x20;
 
@@ -29,5 +29,5 @@ I'm **QUICK OVER THE LAZY DOG**&#x20;
 
 
 ```
-// Some code
+// the lazy fox bla bla bla
 ```
